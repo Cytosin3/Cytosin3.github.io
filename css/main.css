@@ -1765,6 +1765,9 @@ pre code {
     text-align: justify;
   }
 }
+.post-body p {
+  text-indent: 2em;
+}
 .post-body h1 .header-anchor,
 .post-body h2 .header-anchor,
 .post-body h3 .header-anchor,
@@ -2447,7 +2450,7 @@ header.header {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #7095ff;
+  background: #09ff39;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
